@@ -154,7 +154,7 @@ const expCards = [
         date: "March 20xx - May 20xx",
         responsibilities: [
 
-            "these all are just examplers - Developed and maintained user-facing features for the Hostinger website.",
+            "these all are just examples - Developed and maintained user-facing features for the Hostinger website.",
             "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
             "Optimized web applications for maximum speed and scalability.",
         ],
@@ -166,7 +166,7 @@ const expCards = [
         title: "Full Stack Developer",
         date: "March 20xx - May 20xx",
         responsibilities: [
-            "these all are just examplers - Led the development of Docker's web applications, focusing on scalability.",
+            "these all are just examples - Led the development of Docker's web applications, focusing on scalability.",
             "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
             "Contributed to open-source projects that were used with the Docker ecosystem.",
         ],
@@ -178,7 +178,7 @@ const expCards = [
         title: "React Native Developer",
         date: "March 20xx - May 20xx",
         responsibilities: [
-            "these all are just examplers - Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
+            "these all are just examples - Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
             "Improved app performance and user experience through code optimization and testing.",
             "Coordinated with the product team to implement features based on feedback.",
         ],
