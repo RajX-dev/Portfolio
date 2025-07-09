@@ -21,6 +21,7 @@ const Contact = () => {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
+        console.log("HANDLE SUBMIT CALLED 🚀");
         setLoading(true); // Show loading state
 
         try {
