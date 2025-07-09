@@ -1,12 +1,48 @@
-# React + Vite
+# 🚀 Raj Shekhar — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the source code for **my personal portfolio website** — built with **Vite + React + Tailwind CSS + Three.js** to showcase my work, skills, and experiments in web design and development.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [View Portfolio](https://RajX-dev.github.io/Portfolio)  
+🔗 **Vercel Deployment:** [Visit on Vercel](YOUR_VERCEL_URL_HERE)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This portfolio is my digital playground and showcase:
+- ✨ **Designed & developed** from scratch.
+- ⚡ **Built with modern tools** — Vite, React, TailwindCSS, GSAP, Three.js.
+- 🎨 **Fully responsive** — works on mobile, tablet, desktop.
+- 🧩 Includes interactive 3D elements & animations.
+- 🚀 Hosted on **Vercel** *(or GitHub Pages if you prefer)*.
+
+---
+
+## ⚙️ Tech Stack
+
+- **Framework:** React, Vite
+- **Styling:** Tailwind CSS
+- **Animation:** GSAP
+- **3D:** Three.js, React Three Fiber
+- **Deployment:** Vercel & GitHub Pages
+
+---
+
+## 🛠️ Run Locally
+
+To run this project on your machine:
+
+```bash
+# Clone the repo
+git clone https://github.com/RajX-dev/Portfolio.git
+
+# Go into the folder
+cd Portfolio
+
+# Install dependencies
+npm install
+
+# Start local dev server
+npm run dev
+
+# Open http://localhost:5173 in your browser
